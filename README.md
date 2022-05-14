@@ -1,2 +1,2 @@
-# Problem_Solving_Papers
+# Problem Solving
  Solving a logic problem in counting sheets, using python.
